@@ -1,6 +1,6 @@
 # week1_programming_challenges
 
-<Submission Result>
+### Submission Result
 
 |          Assignment         |  Language  |    Time   |        Memory       |  Result  |  Score  |
 |-----------------------------|------------|-----------|---------------------|----------|---------| 
