@@ -1,38 +1,12 @@
 # week3_Greedy_Algorithms
 
-1_money_change
-------------------
->Max time used: 0.08/1.50
->
->Max memory used: 28418048/536870912
 
-2_maximum_value_of_the_loot
-------------------
->Max time used: 0.77/1.50
->
->Max memory used: 35442688/671088640
-
-3_car_fueling
-------------------
->Max time used: 0.10/1.50
->
->Max memory used: 28508160/536870912
-
-4_
-------------------
-
-
-5_
-------------------
-
-
-6_
-------------------
-
-
-7_
-------------------
-
-
-8_
-------------------
+|#|name|status|language|
+|----|---------|------------------|------------------|
+|1|Money Change|:heavy_check_mark:|JAVA
+|2|Maximum Value of the Loot|:heavy_check_mark:|JAVA
+|3|Car Fueling|:heavy_check_mark:|JAVA
+|4|Maximum Advertisement Revenue|:heavy_check_mark:|JAVA
+|5|Collecting Signatures|:heavy_check_mark:|JAVA
+|6|Maximum Number of Prizes|:heavy_check_mark:|JAVA
+|7|Maximum Salary|:x:
