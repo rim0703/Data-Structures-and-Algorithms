@@ -9,12 +9,3 @@
 |4|Number of Inversions||
 |5|Organizing a Lottery||
 |6|Closest Points||
-
-
-
-1  3
-2  4
-3  6
-4  7
-5  8
-6 
